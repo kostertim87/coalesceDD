@@ -1,0 +1,6 @@
+excludeSelector: ""
+fileVersion: 1
+id: "1"
+includeSelector: "+{ nodeType: Dimension }"
+name: Run All Dims
+type: Job

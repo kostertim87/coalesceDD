@@ -1,0 +1,14 @@
+fileVersion: 1
+id: "2"
+mappingDefinitions:
+  EDW:
+    database: COALESCE_MARK_PROD_LAB
+    schema: EDW
+  SRC_TPCH:
+    database: SNOWFLAKE_SAMPLE_DATA
+    schema: TPCH_SF1
+  STAGING:
+    database: COALESCE_MARK_PROD_LAB
+    schema: STAGING
+name: PROD
+type: Environment
